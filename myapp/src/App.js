@@ -6,7 +6,7 @@ import Home from './Component/Home';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import LoadingBar from 'react-top-loading-bar'
 import { useState } from 'react';
-import APITEST from './Component/APITEST';
+
 
 
 function App() {
